@@ -1,0 +1,51 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Model files and weights
+*.pt
+*.pth
+*.weights
+*.h5
+
+# Dataset files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.mov
+
+# Logs and results
+runs/
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db 

@@ -1,0 +1,6 @@
+@echo off
+echo Installing requirements...
+pip install -r requirements.txt
+
+echo Running the app...
+streamlit run app.py 
